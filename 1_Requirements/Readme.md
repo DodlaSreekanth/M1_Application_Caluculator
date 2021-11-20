@@ -33,7 +33,7 @@ The First solid state electronic was created by Blaise pascal.
 
 ## What:
 
-An electronic Calculator is typically a portable electronic device used to perform Aethemetic operations.
+An electronic Calculator is typically a portable electronic device used to perform Arithemetic operations.
 
 ## When:
 
