@@ -1,4 +1,5 @@
 HIGH LEVEL TEST PLAN
+
 1.Check if the calculator is a normal calculator or a scientific calculator.
 
 2.Verify that all the buttons are present and text written on them is readable.
@@ -10,6 +11,7 @@ HIGH LEVEL TEST PLAN
 5.Verify that the calculator gives the correct result in case of operations containing decimal numbers.
 
 LOW LEVEL TEST PLAN
+
 1.Verify the number of digits allowed to enter in the calculator for any operation.
 
 2.Verify the limit of the response value.
