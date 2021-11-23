@@ -21,3 +21,5 @@ LOW LEVEL TEST PLAN
 4.Check if the calculator allows navigating through previous calculations
 
 5.Verify that on pressing two operators one after the other, the latest one will override the previous operator.
+
+
