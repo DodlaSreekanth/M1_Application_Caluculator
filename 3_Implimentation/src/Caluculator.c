@@ -3,7 +3,7 @@
 #include <math.h>  
 #include <stdlib.h>  
       
-// function declarations   
+  
 int addition();  
 int subtract();  
 int multiply();  
@@ -14,47 +14,47 @@ void exit();
   
 int main()  
 {  
-    // declaration a local variable op;  
+      
     int op;  
     do  
     {  
-        // displays the multiple operations of the C Calculator  
+          
         printf (" Select an operation to perform the calculation in C Calculator: ");  
         printf (" \n 1 Addition  \t \t 2 Subtraction \n 3 Multiplication \t 4 Division \n 5 Square \t \t 6 Square Root \n 7 Exit \n \n Please, Make a choice ");      
           
-        scanf ("%d", &op); // accepts a numeric input to choose the operation  
+        scanf ("%d", &op);   
       
       
-    // use switch statement to call an operation  
+     
     switch (op)  
     {  
         case 1:  
-            addition(); /* It call the addition() function  to add the given numbers */  
-            break; // break the function  
+            addition();  
+            break; 
               
         case 2:  
-            subtract(); /* It call the subtract() function  to subtract the given numbers */  
-            break; // break the function  
+            subtract();  
+            break;  
               
         case 3:  
-            multiply(); /* It call the multiply() function  to multiply the given numbers */  
-            break; // break the function  
+            multiply(); 
+            break;   
               
         case 4:  
-            divide(); // It call the divide() function  to divide the given numbers  
-            break; // break the function  
+            divide();
+            break;  
               
         case 5:  
-            sq(); // It call the sq() function  to get the square of given numbers  
-            break; // break the function  
+            sq(); 
+            break; 
               
         case 6:  
-            sqrt1(); /* It call the sqrt1() function  to get the square root of given numbers */  
-            break; // break the function  
+            sqrt1();  
+            break; 
               
         case 7:  
-            exit(0); // It call the exit() function  to exit from the program  
-            break; // break the function  
+            exit(0);   
+            break;   
               
         default:  
             printf(" Something is wrong!! ");  
@@ -69,10 +69,10 @@ int main()
   
   
   
-// function definition  
+
 int addition()  
 {  
-    int i, sum = 0, num, f_num; // declare a local variable   
+    int i, sum = 0, num, f_num; 
     printf (" How many numbers you want to add: ");  
     scanf ("%d", &num);  
     printf (" Enter the numbers: \n ");  
@@ -85,7 +85,7 @@ int addition()
     return 0;  
 }  
   
-// use subtract() function to subtract two numbers  
+
 int subtract()  
 {  
     int n1, n2, res;  
@@ -97,7 +97,7 @@ int subtract()
     printf (" The subtraction of %d - %d is: %d", n1, n2, res);  
 }  
   
-// use multiply() function to multiply two numbers  
+ 
 int multiply()  
 {  
     int n1, n2, res;  
@@ -109,7 +109,7 @@ int multiply()
     printf (" The multiply of %d * %d is: %d", n1, n2, res);  
 }  
   
-// use divide() function to divide two numbers  
+
 int divide()  
 {  
     int n1, n2, res;  
@@ -127,7 +127,7 @@ int divide()
     printf (" \n The division of %d / %d is: %d", n1, n2, res);  
 }  
   
-// use sq() function to get the square of the given number  
+ 
 int sq()  
 {  
     int n1, res;  
@@ -138,7 +138,7 @@ int sq()
     printf (" \n The Square of %d is: %d", n1, res);  
 }  
   
-// use sqrt1() function to get the square root of the given number   
+  
 int sqrt1()  
 {  
     float res;  
