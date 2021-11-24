@@ -2,7 +2,7 @@
 
 The Calculator should contain 0-9 numbers.
 
-The Calculator must contain Addition,Subtraction,Multiplication and Division
+The Calculator must contain Addition,Subtraction,Multiplication,Division,SQUARE and SQUAREROOT.
 
 ## Introduction
  
@@ -52,7 +52,7 @@ Calculation is being able to perform all four airthmatic operations with minimal
 # Detail requirements
 ## High Level Requirements:
 
-It should contain **ADDITION,SUBTRACTION,MULTIPLICATION AND DIVISION**
+It should contain **ADDITION,SUBTRACTION,MULTIPLICATION,DIVISION,SQUARE AND SQUAREROOT**
 
 
 Status:All the other Implementations will be done at later Part.
