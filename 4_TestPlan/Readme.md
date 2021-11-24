@@ -1,7 +1,7 @@
 
 # TEST PLAN:
 
-[!image](https://i0.wp.com/onecore.net/wp-content/uploads/2014/11/Basic-Calculator.png?w=314&ssl=1)
+![image](https://i0.wp.com/onecore.net/wp-content/uploads/2014/11/Basic-Calculator.png?w=314&ssl=1)
 
 ## Table no: High level test plan
 
