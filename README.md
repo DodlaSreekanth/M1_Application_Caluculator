@@ -8,3 +8,6 @@
 
 ## Linux C/C++ Badge from GitHub
 [![Linux C/C++ CI](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/c-cpp.yml)
+
+## Windows C/C++ Badges
+[![Windows C/C++ CI](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/Windows.yml/badge.svg)](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/Windows.yml)
