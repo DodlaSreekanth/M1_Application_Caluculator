@@ -2,5 +2,5 @@
 int main()
 {
 printf("Welcome to sreekanth github.\n****Its working****\n");
-retuen 0;
+return 0;
 }
