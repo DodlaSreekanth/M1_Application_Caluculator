@@ -25,6 +25,23 @@ The cost of the calculator should be low as well as it should contain all the ba
 
 Calculator are long-lasting, and they have almost all kinds of calculators such as basic, scientific, graphing, financial etc.
 
+## STRENGTHS 
+
+The ultimate strength of Calculators is its innovative and user-friendly products. calculators are long-lasting, and they have almost all kinds of calculators such as basic, scientific, graphing, financial, etc. Their technological expertise is one of the greatest. Workforce with more than 10000 people and powerful marketing has made it a market giant among tech-based businesses. Casio has the trust of people, which is valuable than any other strength. Also, they have a huge loyal customer base all over the world.
+
+## WEAKNESSES
+
+Casio has a strong brand image for manufacturing calculators, but at the same time, this brand image works as a stereotype for them. It is Casio’s weakness. Casio has many other wonderful product lines other than calculators, but people don’t rely on them much when buying something than calculators. Even though this company has a wide range of product portfolio, it’s prolonged when it comes to launching new products matching the changing customer’s needs. As a result, those who want a change in their electronics accessories tend to avoid Casio.
+
+## OPPORTUNITIES
+
+The tech-based market has a huge opportunities in capturing the youth market. And Casio is comparatively already one step ahead than other companies. Because since the beginning of childhood, we got introduced to Casio as a helping partner in mathematics. We accepted it as a companion, and an emotional attachment grew. So if Casio launches any innovative products for the youth generation, they won’t think much before give it a try. Also, sponsoring different events and working towards the educational improvement campaigns can add more segments to their customer base.
+
+
+## THREATS 
+Although Casio enjoys a substantial competitive advantage in the calculator business, strong competitors such as Nikon, Fastrack, Panasonic, Sony, Pentax, etc. are emerging daily and gaining popularity among people. Also, due to the stereotype image for “Only a calculator brand,” it’s getting hard for Casio to enter sports and other tech-product lines as there’re already many strong brands are ruling. Their slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
+
 # 4W's and 1'H
 
 ## Who:
