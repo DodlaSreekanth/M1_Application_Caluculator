@@ -1,4 +1,4 @@
-PROJ_NAME = Caluculator.c
+PROJ_NAME = M1_Application_caluculator
 SRC = Caluculator.c
 
 ifdef OS
