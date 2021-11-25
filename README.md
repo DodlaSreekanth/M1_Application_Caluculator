@@ -15,3 +15,7 @@
 ## Unit_Testing badge
 
 [![Unit_Testing](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/Unit_Testing.yml)
+
+## Static_code_CppCheck Badge from github
+
+[![Static code Cppcheck](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/CppCheck.yml/badge.svg)](https://github.com/DodlaSreekanth/M1_Application_Caluculator/actions/workflows/CppCheck.yml)
